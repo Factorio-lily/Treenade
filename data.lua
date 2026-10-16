@@ -351,7 +351,7 @@ data:extend(
     {
       type = "recipe",
       name = "treenade",
-      category = "crafting-with-fluid",
+      categories = { "crafting-with-fluid" },
       subgroup = "nauvis-agriculture",
       allow_productivity = false,
       enabled = false,
@@ -377,7 +377,7 @@ data:extend(
     {
       type = "recipe",
       name = "treessile",
-      category = "crafting-with-fluid",
+      categories = { "crafting-with-fluid" },
       subgroup = "nauvis-agriculture",
       allow_productivity = false,
       enabled = false,

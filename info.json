@@ -4,7 +4,7 @@
 	"title": "Lily's Treenades",
 	"author": "MsBinaryLily",
 	"description": "Want to spread trees instead of blowing them up? What a weirdo. but here's a tool just for you!",
-	"factorio_version": "2.0",
+	"factorio_version": "2.1",
 	"dependencies": [
 		"base >= 2.0",
 		"space-age",
